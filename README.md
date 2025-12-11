@@ -9,7 +9,7 @@
 
 ## 🚪 ChatGPT 中文版入口
 
-* **ChatGPT 中文版入口**：[https://6wwg4.gpt-mirrors.top](https://6wwg4.gpt-mirrors.top)
+* **ChatGPT 中文版入口**：[http://dfsgqqd.shuangrenchengxing.com/chat.php](http://dfgqqd.shuangrenchengxing.com/chat.php)
 * **ChatGPT 镜像网站直达**：[https://gpt.damayansi.com](https://gpt.damayansi.com)
 
 ---
