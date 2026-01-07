@@ -1,6 +1,6 @@
-# ChatGPT官方网址入口:国内在线免费体验网页版ChatGPT-5.1教程(2025/12/21更新)
+# ChatGPT官方网址入口:国内在线免费体验网页版ChatGPT-5.2教程(2026/1/7更新)
 
-🇨🇳 ChatGPT 中文版国内使用指南（2025 全面版）
+🇨🇳 ChatGPT 中文版国内使用指南（2026 全面版）
 
 > ✅ 无需魔法，支持 ChatGPT-5.2、ChatGPT-4o、5pro 及中文版功能
 > 📘 本指南涵盖国内可用的 ChatGPT 镜像网站推荐与详细使用教程，帮助您快速掌握 ChatGPT。
@@ -9,8 +9,8 @@
 
 ## 🚪 ChatGPT 中文版入口
 
-* **ChatGPT 中文版入口**：[http://dfsgqqd.shuangrenchengxing.com/chat.php](http://dfgqqd.shuangrenchengxing.com/chat.php)
-* **ChatGPT 镜像网站直达**：[https://gpt.damayansi.com](https://gpt.damayansi.com)
+* **ChatGPT 中文版入口**：[https://chat.gptmirrors.com/guide.html](http://dfgqqd.shuangrenchengxing.com/chat.php)
+* **ChatGPT 镜像网站直达**：[https://www.chatgpt-china-mirror-site.com](https://www.chatgpt-china-mirror-site.com)
 
 ---
 
@@ -77,8 +77,7 @@ ChatGPT 是由 **OpenAI** 开发的革命性人工智能聊天机器人，基于
 
 | 网站                                                 | 核心模型                          | 免费额度 | 注册方式 | 稳定性   | 功能亮点               |
 | -------------------------------------------------- | ----------------------------- | ---- | ---- | ----- | ------------------ |
-| [gpt.damayansi.com](https://gpt.damayansi.com)     | ChatGPT-4o, ChatGPT-4, Claude 3, Grok | ✔️   | 国内邮箱 | ⭐⭐⭐⭐⭐ | 模型齐全、绘图功能、响应快      |
-| [https://6wwg4.gpt-mirrors.top](https://6wwg4.gpt-mirrors.top)       | ChatGPT-4o, ChatGPT-4, Claude 3       | ✔️   | 国内邮箱 | ⭐⭐⭐⭐⭐ | 1:1 还原官网体验，语音/视频对话 |
+| [www.chatgpt-china-mirror-site.com](https://www.chatgpt-china-mirror-site.com)     | ChatGPT-4o, ChatGPT-4, Claude 3, Grok | ✔️   | 国内邮箱 | ⭐⭐⭐⭐⭐ | 模型齐全、绘图功能、响应快      |
 
 ---
 
