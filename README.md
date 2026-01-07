@@ -9,7 +9,7 @@
 
 ## 🚪 ChatGPT 中文版入口
 
-* **ChatGPT 中文版入口**：[https://chat.gptmirrors.com/guide.html](http://dfgqqd.shuangrenchengxing.com/chat.php)
+* **ChatGPT 中文版入口**：[https://chat.gptmirrors.com/guide.html](https://chat.gptmirrors.com/guide.html)
 * **ChatGPT 镜像网站直达**：[https://www.chatgpt-china-mirror-site.com](https://www.chatgpt-china-mirror-site.com)
 
 ---
